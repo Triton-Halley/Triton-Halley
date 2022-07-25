@@ -21,7 +21,7 @@
 </div>
 
 ---
-:man_technologist: I am a Front-End React.js Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
+:man_technologist: I am a Front-End React.js Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Asia.
 
 
 - 🌱 I’m currently learning React.js frameworks like next.js or libraries help us in development proccess
