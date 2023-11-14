@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Front-end developer <br>👯 I'm looking for a collaboration to develop an idea and create an open source project<br>🌱 I’m currently learning Java , Spring framework and spring boot
+🔭 I’m currently working as Full-stack developer <br>👯 I'm looking for a collaboration to develop an idea and create an open source project<br>🌱 I am currently learning Owasp Top 10 and IOT  Concepts and securtiy
 
 
 ## 🌐 Socials:
